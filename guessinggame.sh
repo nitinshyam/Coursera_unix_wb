@@ -23,4 +23,4 @@ do
 done
 
 echo "you made the right guess" 
-echo "Thanks!! "
+echo "Thanks! "
