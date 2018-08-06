@@ -2,7 +2,7 @@
 # File: makefile
 
 README.md: guessinggame.sh
-	echo "## Project Work " > README.md
+	echo "## The Guessing Game " > README.md
 	echo "# The Unix Workbench" >> README.md
 	echo "## Graded Assignment" >> README.md
 	date >> README.md
