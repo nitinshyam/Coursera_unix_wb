@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # File: guessinggame.sh
 
-function guess() {
+function guess {
 echo "How many files are in the current directory"
 echo "make a guess"
 read no_of_files
